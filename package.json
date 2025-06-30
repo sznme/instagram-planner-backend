@@ -16,5 +16,15 @@
     "url": "https://github.com/sznme/instagram-planner-backend/issues"
   },
   "homepage": "https://github.com/sznme/instagram-planner-backend#readme",
-  "description": ""
+  "description": "",
+  "dependencies": {
+    "@prisma/client": "^6.10.1",
+    "cors": "^2.8.5",
+    "dotenv": "^17.0.0",
+    "express": "^5.1.0",
+    "prisma": "^6.10.1"
+  },
+  "devDependencies": {
+    "nodemon": "^3.1.10"
+  }
 }
